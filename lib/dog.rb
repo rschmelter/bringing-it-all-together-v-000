@@ -30,6 +30,6 @@ class Dog
     breed = row[2]
     new_dog = self.new(id, name, breed)
   end
-  
+
 
 end
